@@ -1,3 +1,5 @@
+/* HEADER */
+
 #starting{
     justify-content: flex-end;
     align-items: center;
@@ -10,4 +12,11 @@
 #head-menu li{
     font-size: 12px;
     padding-right: 10px ;
+}
+
+/* JUMBOTRON */
+
+#jumbo{
+    justify-content: center;
+    align-items: center;
 }
