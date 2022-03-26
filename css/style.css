@@ -1,13 +1,18 @@
 /* HEADER */
-
 #starting{
-    justify-content: flex-end;
     align-items: center;
 }
 
 #head-menu{
     align-items: center;
+    justify-content: end;
 }
 
+#head-menu li{
+    display: inline-block;
+}
 
+#hamburger{
+    display: none;
+}
 
