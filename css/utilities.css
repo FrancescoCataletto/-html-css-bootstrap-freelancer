@@ -1,0 +1,15 @@
+.h100{
+    height: 100px;
+}
+
+.redbox{
+    background-color: rgba(255, 0, 0, 0.1);
+}
+
+.h500{
+    height: 500px;
+}
+
+.d-flex{
+    display: flex;
+}
