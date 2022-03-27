@@ -16,3 +16,13 @@
     display: none;
 }
 
+/* JUMBO */
+
+#jumbotron{
+    justify-content: center;
+    align-items: center;
+}
+
+/* MAIN */
+
+
