@@ -25,4 +25,12 @@
 
 /* MAIN */
 
+/* FORM */
+#form{
+    justify-content: center;
+    align-items: center;
+}
 
+input{
+    border: none;
+}
