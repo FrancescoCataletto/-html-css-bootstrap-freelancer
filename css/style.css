@@ -108,3 +108,45 @@
 input{
     border: none;
 }
+
+/* FOOTER */
+#contact-info{
+    background-color: rgb(58, 84, 109);
+    color: white;
+}
+
+#contact-info .fa-brands{
+    padding: 10px;
+    border: 1px solid white;
+    border-radius: 50%;
+    margin-right: 10px;
+    cursor: pointer;
+}
+
+#contact-info h6{
+    padding-top: 30px;
+}
+
+#contact-info span{
+    color: rgb(26, 189, 156);
+}
+
+#contact-info span:hover{
+    text-decoration: underline;
+    cursor: pointer;
+}
+
+.contact-boxes{
+    width: 70%;
+    margin: 0 auto;
+}
+
+#bottom_footer{
+    background-color: rgb(44, 62, 80);
+    color: white;
+    padding: 40px 0;
+    margin-top: 20px;
+    font-size: 12px;
+}
+
+
