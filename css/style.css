@@ -29,6 +29,23 @@
     align-items: center;
 }
 
+#jumbotron .jumbo_box{
+    width: 95%;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+#jumbo_img{
+    height: 250px;
+    width: 200px;
+    background-color: red;
+}
+
+#jumbo_img img{
+    width: 100%;
+}
+
 /* MAIN */
 
 .about-container{
