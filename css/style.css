@@ -1,19 +1,25 @@
 /* HEADER */
-#starting{
-    align-items: center;
+#my_navbar{
+    height: 80px;
+    background-color: rgb(44, 62, 80);
 }
 
-#head-menu{
-    align-items: center;
-    justify-content: end;
+#my_navbar .container-fluid{
+    background-color: rgb(44, 62, 80);
+    padding-top: 1rem;
 }
 
-#head-menu li{
-    display: inline-block;
+#my_navbar a{
+    color: white;
 }
 
-#hamburger{
-    display: none;
+#my_navbar button{
+    border-color: rgb(143, 142, 140);
+}
+
+
+#my_navbar span{
+    filter: invert();
 }
 
 /* JUMBO */
