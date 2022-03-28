@@ -6,3 +6,20 @@ a{
     text-decoration: none;
     color: black;
 }
+
+h3{
+    margin-top: 30px;
+}
+
+.star-box{
+    width: 50%;
+    margin: 0 auto;
+}
+
+.star-box .row{
+    align-items: center;
+}
+
+hr{
+    height: 5px !important;
+}
