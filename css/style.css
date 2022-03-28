@@ -27,6 +27,8 @@
 #jumbotron{
     justify-content: center;
     align-items: center;
+    background-color: rgb(26, 188, 156);
+    color: white;
 }
 
 #jumbotron .jumbo_box{
@@ -39,7 +41,6 @@
 #jumbo_img{
     height: 250px;
     width: 200px;
-    background-color: red;
 }
 
 #jumbo_img img{
