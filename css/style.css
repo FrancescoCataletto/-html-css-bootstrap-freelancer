@@ -59,9 +59,23 @@
 }
 
 /* about section */
+#about{
+    background-color: rgb(26, 188, 156);
+    color: white;
+}
+
 .about-container{
     width: 60%;
     margin: 0 auto;
+}
+
+#about button{
+    padding: 5px 10px;
+    border-radius: 5px;
+    background-color: rgb(26, 188, 156);
+    color: white;
+    border: 1px solid white;
+    margin: 30px 0;
 }
 
 .form-container{
