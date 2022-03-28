@@ -48,6 +48,17 @@
 
 /* MAIN */
 
+/* portfolio section */
+#portfolio img{
+    width: 100%;
+    border-radius: 10px;
+}
+
+#portfolio .col-12{
+    margin-bottom: 20px;
+}
+
+/* about section */
 .about-container{
     width: 60%;
     margin: 0 auto;
