@@ -25,6 +25,16 @@
 
 /* MAIN */
 
+.about-container{
+    width: 60%;
+    margin: 0 auto;
+}
+
+.form-container{
+    width: 60%;
+    margin: 0 auto;
+}
+
 /* FORM */
 #form{
     justify-content: center;
